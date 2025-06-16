@@ -7,3 +7,5 @@ The first tab of the supplementary material file contains the "Master List" for 
 
 ### Included Articles
 The second tab contains all of the articles that were included in this systematic review. Information on blood collection, DNA extraction, DNA quantification, reaction kits used, and patient demographics are given for each article. Mean and standard deviation cfDNA values are provided in columns N and O. Studies that contain individual measurements are also highlighted with column P.
+
+Columns S to Y show the calculations made for combining the mean and standard deviations of different studies given certain methodologies. These calculations are used for the tree diagram provided in the systematic review. 
